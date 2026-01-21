@@ -1,0 +1,60 @@
+{
+  "name": "Beast Bond",
+  "type": "edge",
+  "system": {
+    "category": "Weird",
+    "description": "<p>See SWADE p.51</p>",
+    "notes": "",
+    "isArcaneBackground": false,
+    "requirements": [
+      {
+        "type": "rank",
+        "selector": "",
+        "value": 0,
+        "combinator": "and"
+      }
+    ],
+    "swid": "beast-bond",
+    "source": "",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "charges": {
+      "hasCharges": false,
+      "charges": [
+        {
+          "id": "IQf5xZo3",
+          "sort": 0,
+          "name": "Cargas",
+          "value": 1,
+          "max": 1,
+          "rechargeType": "finite",
+          "rechargeAmount": ""
+        }
+      ]
+    }
+  },
+  "flags": {},
+  "img": "systems/swade/assets/icons/edge.svg",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "swade",
+    "systemVersion": "5.1.1",
+    "createdTime": 1768967342205,
+    "modifiedTime": 1768967342205,
+    "lastModifiedBy": "gGvLaEEdpWVoAmbd"
+  },
+  "ownership": {
+    "default": 0,
+    "gGvLaEEdpWVoAmbd": 3
+  },
+  "folder": null,
+  "_id": "0HmEynH3JpcZVlFq",
+  "sort": 0,
+  "_key": "!items!0HmEynH3JpcZVlFq"
+}

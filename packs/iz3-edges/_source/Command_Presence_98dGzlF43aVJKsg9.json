@@ -1,0 +1,67 @@
+{
+  "name": "Command Presence",
+  "type": "edge",
+  "system": {
+    "category": "Leadership",
+    "description": "<p>See SWADE p.45</p>",
+    "notes": "",
+    "isArcaneBackground": false,
+    "requirements": [
+      {
+        "type": "rank",
+        "selector": "",
+        "value": 1,
+        "combinator": "and"
+      },
+      {
+        "type": "edge",
+        "label": "Command",
+        "selector": "command",
+        "value": "",
+        "combinator": "and"
+      }
+    ],
+    "swid": "command-presence",
+    "source": "",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "charges": {
+      "hasCharges": false,
+      "charges": [
+        {
+          "id": "3m7pbqzZ",
+          "sort": 0,
+          "name": "Cargas",
+          "value": 1,
+          "max": 1,
+          "rechargeType": "finite",
+          "rechargeAmount": ""
+        }
+      ]
+    }
+  },
+  "flags": {},
+  "img": "systems/swade/assets/icons/edge.svg",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "swade",
+    "systemVersion": "5.1.1",
+    "createdTime": 1768967360365,
+    "modifiedTime": 1768967360365,
+    "lastModifiedBy": "gGvLaEEdpWVoAmbd"
+  },
+  "ownership": {
+    "default": 0,
+    "gGvLaEEdpWVoAmbd": 3
+  },
+  "folder": null,
+  "_id": "98dGzlF43aVJKsg9",
+  "sort": 0,
+  "_key": "!items!98dGzlF43aVJKsg9"
+}

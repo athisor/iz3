@@ -1,0 +1,67 @@
+{
+  "name": "Block",
+  "type": "edge",
+  "system": {
+    "category": "Combat",
+    "description": "<p>See SWADE p.40</p>",
+    "notes": "",
+    "isArcaneBackground": false,
+    "requirements": [
+      {
+        "type": "rank",
+        "selector": "",
+        "value": 1,
+        "combinator": "and"
+      },
+      {
+        "type": "skill",
+        "label": "Fighting",
+        "selector": "fighting",
+        "value": 8,
+        "combinator": "and"
+      }
+    ],
+    "swid": "block",
+    "source": "",
+    "additionalStats": {},
+    "choiceSets": [],
+    "favorite": false,
+    "grants": [],
+    "charges": {
+      "hasCharges": false,
+      "charges": [
+        {
+          "id": "BH4wqLO4",
+          "sort": 0,
+          "name": "Cargas",
+          "value": 1,
+          "max": 1,
+          "rechargeType": "finite",
+          "rechargeAmount": ""
+        }
+      ]
+    }
+  },
+  "flags": {},
+  "img": "systems/swade/assets/icons/edge.svg",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "swade",
+    "systemVersion": "5.1.1",
+    "createdTime": 1768967337562,
+    "modifiedTime": 1768967337562,
+    "lastModifiedBy": "gGvLaEEdpWVoAmbd"
+  },
+  "ownership": {
+    "default": 0,
+    "gGvLaEEdpWVoAmbd": 3
+  },
+  "folder": null,
+  "_id": "iIPEAFsZuXSJ5Mtj",
+  "sort": 0,
+  "_key": "!items!iIPEAFsZuXSJ5Mtj"
+}
