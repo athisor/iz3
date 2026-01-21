@@ -30,10 +30,56 @@
     },
     "packs": [
         {
+            "name": "iz3-rules",
+            "label": "IZ3 - Reglas del Entorno",
+            "path": "packs/iz3-rules",
+            "type": "JournalEntry",
+            "system": "swade",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            }
+        },
+        {
+            "name": "iz3-ancestries",
+            "label": "IZ3 - Ancestries (Razas)",
+            "path": "packs/iz3-ancestries",
+            "type": "Item",
+            "system": "swade"
+        },
+        {
             "name": "iz3-edges",
             "label": "IZ3 - Ventajas (Edges)",
             "path": "packs/iz3-edges",
             "type": "Item",
+            "system": "swade"
+        },
+        {
+            "name": "iz3-hindrances",
+            "label": "IZ3 - Desventajas (Hindrances)",
+            "path": "packs/iz3-hindrances",
+            "type": "Item",
+            "system": "swade"
+        },
+        {
+            "name": "iz3-gear",
+            "label": "IZ3 - Equipo y Ciberware",
+            "path": "packs/iz3-gear",
+            "type": "Item",
+            "system": "swade"
+        },
+        {
+            "name": "iz3-hacking",
+            "label": "IZ3 - Poderes y Hacking",
+            "path": "packs/iz3-hacking",
+            "type": "Item",
+            "system": "swade"
+        },
+        {
+            "name": "iz3-bestiary",
+            "label": "IZ3 - Amenazas (Bestiario)",
+            "path": "packs/iz3-bestiary",
+            "type": "Actor",
             "system": "swade"
         }
     ],
