@@ -1,0 +1,31 @@
+{
+    "name": "Gun Fu!",
+    "type": "edge",
+    "_id": "b60b33524a024a6d",
+    "img": "icons/svg/target.svg",
+    "system": {
+        "description": "<p>Heavily trained in close quarters gunplay, you know gun fu. When using pistols against a target’s Parry, she has +2 to Shooting and +2 to pistol damage. This benefit only applies to such close range combat, not to attacks from further than adjacent.</p>",
+        "requirements": "Novice, Martial Artist, Fighting d6+, Shooting d6+",
+        "isArcaneBackground": false,
+        "isBackground": false,
+        "isProfessional": false,
+        "isSocial": false,
+        "isWeird": false,
+        "isLegendary": false,
+        "isCombat": true,
+        "isLeadership": false,
+        "source": "Interface Zero 3.0 PoC",
+        "actions": {}
+    },
+    "effects": [],
+    "flags": {
+        "core": {
+            "sourceId": "Compendium.iz3v2.iz3-edges.b60b33524a024a6d"
+        }
+    },
+    "_stats": {
+        "systemId": "swade",
+        "systemVersion": "4.1.0",
+        "coreVersion": "12.331"
+    }
+}
